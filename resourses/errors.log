@@ -1,0 +1,70 @@
+Exception occurred at: 2024-12-04T23:11:11.807117900
+Exception message: Simulated exception occurred
+Stack trace:
+java.lang.Exception: Simulated exception occurred
+	at ExceptionLogger.simulateException(ExceptionLogger.java:23)
+	at ExceptionLogger.main(ExceptionLogger.java:9)
+--------------------------------------------------
+Exception occurred at: 2024-12-04T23:11:11.815117200
+Exception message: Another simulated exception
+Stack trace:
+java.lang.IllegalArgumentException: Another simulated exception
+	at ExceptionLogger.anotherException(ExceptionLogger.java:29)
+	at ExceptionLogger.main(ExceptionLogger.java:15)
+--------------------------------------------------
+Exception occurred at: 2024-12-04T23:12:32.890605500
+Exception message: Simulated exception occurred
+Stack trace:
+java.lang.Exception: Simulated exception occurred
+	at ExceptionLogger.simulateException(ExceptionLogger.java:23)
+	at ExceptionLogger.main(ExceptionLogger.java:9)
+--------------------------------------------------
+Exception occurred at: 2024-12-04T23:12:32.901601700
+Exception message: Another simulated exception
+Stack trace:
+java.lang.IllegalArgumentException: Another simulated exception
+	at ExceptionLogger.anotherException(ExceptionLogger.java:29)
+	at ExceptionLogger.main(ExceptionLogger.java:15)
+--------------------------------------------------
+Exception occurred at: 2024-12-05T21:30:46.046402800
+Exception message: Simulated exception occurred
+Stack trace:
+java.lang.Exception: Simulated exception occurred
+	at ExceptionLogger.simulateException(ExceptionLogger.java:23)
+	at ExceptionLogger.main(ExceptionLogger.java:9)
+--------------------------------------------------
+Exception occurred at: 2024-12-05T21:30:46.060413600
+Exception message: Another simulated exception
+Stack trace:
+java.lang.IllegalArgumentException: Another simulated exception
+	at ExceptionLogger.anotherException(ExceptionLogger.java:29)
+	at ExceptionLogger.main(ExceptionLogger.java:15)
+--------------------------------------------------
+Exception occurred at: 2024-12-05T21:31:56.131938500
+Exception message: Simulated exception occurred
+Stack trace:
+java.lang.Exception: Simulated exception occurred
+	at ExceptionLogger.simulateException(ExceptionLogger.java:23)
+	at ExceptionLogger.main(ExceptionLogger.java:9)
+--------------------------------------------------
+Exception occurred at: 2024-12-05T21:31:56.144938100
+Exception message: Another simulated exception
+Stack trace:
+java.lang.IllegalArgumentException: Another simulated exception
+	at ExceptionLogger.anotherException(ExceptionLogger.java:29)
+	at ExceptionLogger.main(ExceptionLogger.java:15)
+--------------------------------------------------
+Exception occurred at: 2024-12-05T21:32:54.105565100
+Exception message: Simulated exception occurred
+Stack trace:
+java.lang.Exception: Simulated exception occurred
+	at ExceptionLogger.simulateException(ExceptionLogger.java:23)
+	at ExceptionLogger.main(ExceptionLogger.java:9)
+--------------------------------------------------
+Exception occurred at: 2024-12-05T21:32:54.135570600
+Exception message: Another simulated exception
+Stack trace:
+java.lang.IllegalArgumentException: Another simulated exception
+	at ExceptionLogger.anotherException(ExceptionLogger.java:29)
+	at ExceptionLogger.main(ExceptionLogger.java:15)
+--------------------------------------------------
